@@ -13,6 +13,10 @@
     "init": false,
     "panel_icon": "mdi:car-connected",
     "panel_title": "TeslaMate",
+    "ports": {
+    },
+    "ports_description": {
+    },
     "options": {
         "database_user": null,
         "database_pass": null,
